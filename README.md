@@ -7,3 +7,4 @@ Then I spun off a new branch called practice
 I want to push these changes back to my repo, then merge with the Master branch via a pull request
 
 adding a few updates here, and will pull this down to my local to make more changes
+adding more changes, and I have connected my SSH key between my computer and GutHub. TIme to start coding!
